@@ -21,7 +21,7 @@ def main(TRANSFER_LIST_FILE, NEW_DATA_FILE, OUTPUT_IMAGE_FILE):
             input = raw_input
         except NameError:
             pass
-        input('Press ENTER to exit...')
+        input('Hit ENTER to exit...')
         sys.exit(1)
     else:
         print('sdat2img binary - version: {}\n'.format(__version__))
