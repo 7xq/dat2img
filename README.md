@@ -1,5 +1,5 @@
 # sdat2img
-Convert sparse Android data image (.dat) into filesystem ext4 image (.img)
+Convert sparse Android data image (.dat) into filesystem ext4 image (.img) for easy to modify the system files
 
 
 
